@@ -8,5 +8,5 @@ another line
 yest anptehr line
 
 #Copyright notice
-adding a copyright
+adding a copyright, more changes from myfeature branch
 #How to contribute
