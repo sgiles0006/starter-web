@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
     sg sg@g.com
 # THANKS
-
+    Thanks to everyone
     <name>
 
 # TECHNOLOGY COLOPHON
